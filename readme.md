@@ -1,9 +1,8 @@
 # To do list
 
 DCGAN:
-- ADDing FID
-- Research about Gradient Tape and explain how it works
-- Read research papers and add to list
+- matching params descr and gen
+- add augmenting
 
 ACGAN:
 
