@@ -1,13 +1,5 @@
-# To do list
-
-DCGAN:
-- matching params descr and gen
-- add augmenting
-
-ACGAN:
-
-- Find Code to try 
-
-CGAN:
--Find Code to try
--Plot images with labels
+# The Process of how I tried out GANs are 
+1. DCGAN.ipynb
+2. CGAN.ipynb
+3.WGAN.ipynb
+4. Conclusion.ipynb
